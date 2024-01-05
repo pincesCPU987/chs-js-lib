@@ -413,5 +413,3 @@ class Console {
         return await this.readNumber(str, parseFloat, 'a float', true);
     }
 }
-
-export default Console;
